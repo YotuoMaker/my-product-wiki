@@ -19,7 +19,7 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
+site_name: 我的产品Wiki
 site_url: https://squidfunk.github.io/mkdocs-material/
 site_author: Martin Donath
 site_description: >-
@@ -181,6 +181,7 @@ not_in_nav: |
 # Page tree
 nav:
   - Home: index.md
+  - 产品特性: features.md
   - Getting started:
     - Installation: getting-started.md
     - Creating your site: creating-your-site.md
